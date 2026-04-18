@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Nelson Ambrose 👋
+Head of Software Development | AI Governance & Strategy | Enterprise Architecture
+Show Image Show Image
+I work at the intersection of software engineering, AI governance, and enterprise architecture — helping organisations build AI programmes that are practical, well-governed, and built to last.
+Currently leading AI governance infrastructure at Pepper Ireland, including oversight of the AI Steering Committee, AI use case register, and governance tooling across Jira, Power BI, and SharePoint.
 
-<!--
-**nelsambrose/nelsambrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗂️ What you'll find here
+🤖 AI & Governance
+Practical resources for organisations navigating responsible AI adoption, use case prioritisation, and governance frameworks aligned to the EU AI Act and NIST AI RMF.
+🏛️ Enterprise Architecture
+Visual libraries and reference material covering TOGAF, the ADM cycle, capability assessment, and financial IT architecture principles.
+⚙️ Engineering & Tooling
+Internal tooling, automation, and platform work built for real-world financial services environments.
 
-Here are some ideas to get you started:
+🎯 Currently focused on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI governance maturity in regulated financial services
+Agentic AI and human-in-the-loop design principles
+Enterprise architecture as a foundation for responsible AI
+
+
+📚 Postgraduate study
+MSc Business Analytics & AI for Management — Trinity College Dublin (in progress)
+
+🔗 Connect with me on LinkedIn
