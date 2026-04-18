@@ -2,7 +2,7 @@
 
 **Head of Software Development | AI Governance & Strategy | Enterprise Architecture**
 
-![Dublin, Ireland](https://img.shields.io/badge/📍-Dublin,_Ireland-blue) ![LinkedIn](https://img.shields.io/badge/LinkedIn-nelson--ambrose-0077B5?logo=linkedin)
+![Dublin, Ireland](https://img.shields.io/badge/📍-Dublin,_Ireland-blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelson--ambrose-0077B5?logo=linkedin)](https://www.linkedin.com/in/nelson-ambrose/)
 
 I work at the intersection of software engineering, AI governance, and enterprise architecture — helping organisations build AI programmes that are practical, well-governed, and built to last.
 
