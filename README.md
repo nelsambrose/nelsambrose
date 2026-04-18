@@ -43,6 +43,24 @@ Internal tooling, automation, and platform work built for real-world financial s
 
 ---
 
+### 🎓 Certifications & learning
+
+**Enterprise Architecture & IT frameworks**
+TOGAF 10 Foundation · ITIL v3 Foundation · PRINCE2 Foundation · PMI-ACP Agile PM · Microsoft Azure Fundamentals · Microsoft Certified Technology Specialist
+
+**AI & governance**
+Ethics of AI *(University of Helsinki)* · Generative AI for Leaders *(Vanderbilt)* · Google's Responsible and Generative AI · GenAI for Executives & Business Leaders *(IBM)* · AI For Everyone *(DeepLearning.AI)*
+
+**Leadership**
+Exercising Leadership: Foundational Principles *(Harvard)* · Leadership in 21st Century Organizations *(Copenhagen Business School)* · Strategic Leadership and Management *(University of Illinois Urbana-Champaign)*
+
+**Security**
+ISO 27001 Security Compliance *(Pluralsight)* · NIST Cybersecurity Foundations · Foundations of Cybersecurity *(Google)*
+
+*[See all credentials on LinkedIn →](https://www.linkedin.com/in/nelson-ambrose/details/certifications/)*
+
+---
+
 ### 📚 Postgraduate study
 MSc Business Analytics & AI for Management — Trinity College Dublin *(in progress)*
 
