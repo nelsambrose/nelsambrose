@@ -12,10 +12,13 @@ Currently leading AI governance infrastructure at Pepper Ireland, including over
 
 ### 📖 Published books
 
-- **[Key Principles of IT Architecture for Modern Enterprises](https://github.com/nelsambrose/Principles-of-IT-Architecture-for-Modern-Enterprises)** — A practical guide to essential IT architecture principles for developers and IT professionals.
-- **[Unveiling the Secrets of ChatGPT](https://github.com/nelsambrose/Unveiling-the-Secrets-of-ChatGPT)** — A practical guide to understanding and using ChatGPT effectively.
+**[Key Principles of IT Architecture for Modern Enterprises](https://github.com/nelsambrose/Principles-of-IT-Architecture-for-Modern-Enterprises)** — A practical guide to essential IT architecture principles for developers and IT professionals.
 
-*Available on Amazon, Apple Books, Barnes & Noble, Kobo and more — see each repo for full links.*
+[![Apple Books](https://img.shields.io/badge/Apple_Books-000000?style=flat-square&logo=apple&logoColor=white)](https://books.apple.com/us/book/key-principles-of-it-architecture/id6737278336) [![Barnes & Noble](https://img.shields.io/badge/Barnes_%26_Noble-2A6F36?style=flat-square)](https://www.barnesandnoble.com/w/key-principles-of-it-architecture-nelson-ambrose/1146440291)
+
+**[Unveiling the Secrets of ChatGPT](https://github.com/nelsambrose/Unveiling-the-Secrets-of-ChatGPT)** — A practical guide to understanding and using ChatGPT effectively.
+
+[![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/Unveiling-Secrets-ChatGPT-Inside-Mind-ebook/dp/B0F6K9LBXZ) [![Apple Books](https://img.shields.io/badge/Apple_Books-000000?style=flat-square&logo=apple&logoColor=white)](https://books.apple.com/us/book/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai/id6737278904) [![Barnes & Noble](https://img.shields.io/badge/Barnes_%26_Noble-2A6F36?style=flat-square)](https://www.barnesandnoble.com/w/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai-nelson-ambrose/1146458300?ean=2940180640291) [![Kobo](https://img.shields.io/badge/Kobo-ED1C24?style=flat-square)](https://www.kobo.com/ie/en/ebook/unveiling-the-secrets-of-chatgpt-inside-the-mind-of-an-ai)
 
 ---
 
