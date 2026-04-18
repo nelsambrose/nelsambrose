@@ -10,6 +10,15 @@ Currently leading AI governance infrastructure at Pepper Ireland, including over
 
 ---
 
+### 📖 Published books
+
+- **[Key Principles of IT Architecture for Modern Enterprises](https://github.com/nelsambrose/Principles-of-IT-Architecture-for-Modern-Enterprises)** — A practical guide to essential IT architecture principles for developers and IT professionals.
+- **[Unveiling the Secrets of ChatGPT](https://github.com/nelsambrose/Unveiling-the-Secrets-of-ChatGPT)** — A practical guide to understanding and using ChatGPT effectively.
+
+*Available on Amazon, Apple Books, Barnes & Noble, Kobo and more — see each repo for full links.*
+
+---
+
 ### 🗂️ What you'll find here
 
 **🤖 AI & Governance**
