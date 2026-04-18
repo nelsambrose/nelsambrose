@@ -18,6 +18,17 @@
 - Never use an em dash "—". Use ": " instead, or if a dash is grammatically needed, use " - " (hyphen with spaces, not an em dash)
 - Match Nelson's casual-but-professional tone in commits and docs
 
+## Code & architecture standards
+All code work follows best international practices and standards:
+- SOLID principles, clean code, design patterns
+- Architectural best practices (separation of concerns, modularity, scalability)
+- Security-first approach (validate at boundaries, avoid OWASP vulnerabilities)
+- Performance considerations where relevant
+- Maintainability and readability
+- Industry standards for the language/framework in use
+
+Don't ask for these explicitly - assume they're always required unless Nelson specifies otherwise.
+
 ## GitHub Achievements - Pull Shark tiers
 Nelson wants to work toward higher Pull Shark tiers. Remind him of progress when doing any PR work.
 
