@@ -1,6 +1,6 @@
 # Hi, I'm Nelson Ambrose 👋
 
-**Head of Software Development | AI Governance & Strategy | Enterprise Architecture**
+**Head of Solution Delivery / Software Development | AI Governance & Strategy | Enterprise Architecture**
 
 ![Dublin, Ireland](https://img.shields.io/badge/📍-Dublin,_Ireland-blue) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nelson--ambrose-0077B5?logo=linkedin)](https://www.linkedin.com/in/nelson-ambrose/)
 
